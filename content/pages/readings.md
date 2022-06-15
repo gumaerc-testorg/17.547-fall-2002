@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides the list of readings for the course. Links are
+  provided where available. '
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -102,7 +104,7 @@ Chu, Yun-han, and Jih-wen Lin. "Political Development in 20th-Century Taiwan: St
 
 Fewsmith, Joseph. "[Is Political Reform Ahead](http://www.hoover.org/research/political-reform-ahead-beijing-confronts-problems-facing-society-and-ccp)." _China Leadership Monitor_ (Winter 2002): Issue One.
 
-Miller, H. Lyman. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)](http://www.hoover.org/sites/default/files/uploads/documents/clm1_LM.pdf)["The Road to the Sixteenth Party Congress." (PDF - 30 MB)](http://www.hoover.org/sites/default/files/uploads/documents/clm1_LM.pdf) _China Leadership Monitor_ (Winter 2002): Issue One.
+Miller, H. Lyman. [](http://www.hoover.org/sites/default/files/uploads/documents/clm1_LM.pdf)["The Road to the Sixteenth Party Congress." (PDF - 30 MB)](http://www.hoover.org/sites/default/files/uploads/documents/clm1_LM.pdf) _China Leadership Monitor_ (Winter 2002): Issue One.
 
 MacFarquhar, Roderick. "Demolition Man." _New York Review of Books_ (27 March 1997).
 

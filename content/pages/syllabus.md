@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides information on course objectives and organization,
+  meeting times, format, and requirements.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
