@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides details on the final essay assignment for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: a1be27c4-ba08-8a40-837e-7a4fc312383e
 ---
