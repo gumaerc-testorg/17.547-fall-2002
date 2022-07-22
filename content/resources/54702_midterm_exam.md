@@ -5,6 +5,7 @@ file: /courses/17-547-government-and-politics-of-china-fall-2002/bca2391f83cc6dd
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Midterm Examination
 uid: bca2391f-83cc-6ddb-2e43-6c805b7547a3
 ---
 Midterm exam on on the government and politics of China.
-
