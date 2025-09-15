@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Midterm exam on on the government and politics of China.
-file: /courses/17-547-government-and-politics-of-china-fall-2002/bca2391f83cc6ddb2e436c805b7547a3_54702_midterm_exam.pdf
+file: /ol-ocw-studio-app/courses/17-547-government-and-politics-of-china-fall-2002/bca2391f83cc6ddb2e436c805b7547a3_54702_midterm_exam.pdf
+file_size: 82739
 file_type: application/pdf
 learning_resource_types:
 - Exams
