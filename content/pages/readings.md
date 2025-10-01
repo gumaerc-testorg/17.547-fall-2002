@@ -48,7 +48,7 @@ III. THE POST-MAO TRANSITION
 **Reform: Unleashing the Winds of Change**
 
 Kornai, Janos. "What the Change of System from Socialism to Capitalism Does and Does Not Mean." _Journal of Economic Perspectives_ 14, 1 (Winter 2000): 27-42.  
-[http://www.economics.harvard.edu/faculty/kornai/files/wtcosf.pdf](https://www.aeaweb.org/articles?id=10.1257/jep.14.1.27)
+{{% resource_link "7edbdc85-9585-46e4-b33f-a5a03fc4a7ec" "http://www.economics.harvard.edu/faculty/kornai/files/wtcosf.pdf" %}}
 
 Perkins, Dwight. "Completing China's Move to the Market." _Journal of Economic Perspectives_ 8, 2 (Spring 1994): 21-46.
 
@@ -59,38 +59,38 @@ Oi, Jean. "Fiscal Reform and the Economic Foundations of Local State Corporatism
 Calhoun, Craig. _Neither Gods nor Emperors_. Berkeley: Univ. of California Press, 1997, skim entire book.
 
 Metzger, Thomas A. "Sources of Resistance." _Journal of Democracy_ 9, 1 (1998): 18-26.  
-[http://muse.jhu.edu/journals/journal\_of\_democracy/](http://muse.jhu.edu/journals/journal_of_democracy/)
+{{% resource_link "68a1051f-d7ce-415d-86bd-64ebe247b542" "http://muse.jhu.edu/journals/journal\_of\_democracy/" %}}
 
 IV. CHINA IN THE 1990s
 ----------------------
 
 **State and Market in Contemporary China**
 
-International Finance Corporation. _China's Emerging Private Enterprises_. Washington: IFC, 2000. (available online at [www.ifc.org/publications/](http://www.ifc.org/publications/) use "search" function to find).
+International Finance Corporation. _China's Emerging Private Enterprises_. Washington: IFC, 2000. (available online at {{% resource_link "e8fd4b3d-603a-4910-a12a-992828897f22" "www.ifc.org/publications/" %}} use "search" function to find).
 
 Steinfeld, Edward S. "China: The People's Republic at 50." _The Far Eastern Economic Review_ 7 (Oct. 1999). (available online through Dow Jones Interactive database)
 
-Tenev, Stoyan, and Chunlin Zhang. _Corporate Governance and Enterprise Reform in China: Building the Institutions of Modern Markets._ Washington: World Bank/IFC, 2002, Chap. 2. (available online at [www.ifc.org](http://www.ifc.org/))
+Tenev, Stoyan, and Chunlin Zhang. _Corporate Governance and Enterprise Reform in China: Building the Institutions of Modern Markets._ Washington: World Bank/IFC, 2002, Chap. 2. (available online at {{% resource_link "37b44daa-36fc-4311-9b95-a7be7cfdba8c" "www.ifc.org" %}})
 
 **State and Society**
 
 Blecher, Marc J. "Hegemony and Workers' Politics in China." _The China Quarterly_, 170 (June 2002): 283-303.
 
-Cai, Yongshun. "[The Resistance of Chinese Laid-off Workers in the Reform Period](http://journals.cambridge.org/action/login)." _The China Quarterly_, no. 170 (June 2002): 327-344.
+Cai, Yongshun. "{{% resource_link "252b18d0-d2be-45e9-919c-9d630c2bce61" "The Resistance of Chinese Laid-off Workers in the Reform Period" %}}." _The China Quarterly_, no. 170 (June 2002): 327-344.
 
   
-Kaufman, Joan, and Anthony Saich. "[Financial Reform, Poverty, and the Impact on Reproductive Health Provision: Evidence from Three Rural Townships](http://www.hks.harvard.edu/m-rcbg/Conferences/financial_sector/FinRfrmPovertyandImpactonReprodHlth.pdf)." _Paper presented to the conference on Financial Sector Reform in China_, Sept. 2001.
+Kaufman, Joan, and Anthony Saich. "{{% resource_link "bb048cba-1577-408a-ae52-aca522631f21" "Financial Reform, Poverty, and the Impact on Reproductive Health Provision: Evidence from Three Rural Townships" %}}." _Paper presented to the conference on Financial Sector Reform in China_, Sept. 2001.
 
 Tang, Wenfang. "Political and Social Trends in the Post-Deng Urban China: Crisis or Stability?" _The China Quarterly_, 168 (Dec. 2001).  
  
 
 **Law and Party**
 
-Alford, William. "[The More Law, the More . . .? Measuring Legal Reform in the People's Republic of China, Center for Research on Economic Development and Policy Reform](https://kingcenter.stanford.edu/publications/more-law-more-measuring-legal-reform-peoples-republic-china)." Stanford University. Working Paper, no. 59, August 2000.
+Alford, William. "{{% resource_link "e95fb178-4a9f-40e7-b5be-02f8346be4b4" "The More Law, the More . . .? Measuring Legal Reform in the People's Republic of China, Center for Research on Economic Development and Policy Reform" %}}." Stanford University. Working Paper, no. 59, August 2000.
 
-Ding, X. L. "The Quasi-Criminalization of a Business Sector in China." _Crime, Law & Social Change_ 35, 3 (April 2001): 177-202. [http://dx.doi.org/10.1023/A:1011294000877](http://dx.doi.org/10.1023/A:1011294000877)
+Ding, X. L. "The Quasi-Criminalization of a Business Sector in China." _Crime, Law & Social Change_ 35, 3 (April 2001): 177-202. {{% resource_link "b9495347-3c68-46b2-98db-8de4ad88c3e1" "http://dx.doi.org/10.1023/A:1011294000877" %}}
 
-Peerenboom, Randall. "Seek Truth From Facts: An Empirical Study of Enforcement of Arbitral Awards in the PRC." 2001. [http://papers.ssrn.com/sol3/papers.cfm?abstract\_id=344900](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=344900)
+Peerenboom, Randall. "Seek Truth From Facts: An Empirical Study of Enforcement of Arbitral Awards in the PRC." 2001. {{% resource_link "43ad7e77-9378-4b7b-aa7c-4fbaa77ae189" "http://papers.ssrn.com/sol3/papers.cfm?abstract\_id=344900" %}}
 
 **Nationalism and the Taiwan Issue**
 
@@ -102,9 +102,9 @@ Chu, Yun-han, and Jih-wen Lin. "Political Development in 20th-Century Taiwan: St
 
 **Elite Politics and Succession**
 
-Fewsmith, Joseph. "[Is Political Reform Ahead](http://www.hoover.org/research/political-reform-ahead-beijing-confronts-problems-facing-society-and-ccp)." _China Leadership Monitor_ (Winter 2002): Issue One.
+Fewsmith, Joseph. "{{% resource_link "aa701f81-05e2-42a4-a3d4-4da6e86210e9" "Is Political Reform Ahead" %}}." _China Leadership Monitor_ (Winter 2002): Issue One.
 
-Miller, H. Lyman. [](http://www.hoover.org/sites/default/files/uploads/documents/clm1_LM.pdf)["The Road to the Sixteenth Party Congress." (PDF - 30 MB)](http://www.hoover.org/sites/default/files/uploads/documents/clm1_LM.pdf) _China Leadership Monitor_ (Winter 2002): Issue One.
+Miller, H. Lyman. {{% resource_link "d9564bbd-0d3b-4d9f-b85a-ff73bf7f2d0c" "" %}}{{% resource_link "d9564bbd-0d3b-4d9f-b85a-ff73bf7f2d0c" "\"The Road to the Sixteenth Party Congress.\" (PDF - 30 MB)" %}} _China Leadership Monitor_ (Winter 2002): Issue One.
 
 MacFarquhar, Roderick. "Demolition Man." _New York Review of Books_ (27 March 1997).
 
@@ -120,4 +120,4 @@ Minxin, Pei. "China's Governance Crisis." _Foreign Affairs_ (Sept/Oct. 2002).
 Xiaoying, Wang "The Post-Communist Personality." _The China Journal_ (Jan. 2002): 1-18.
 
 Yizi, Chen. "The Road from Socialism." _Journal of Democracy_ 9, 1 (1998): 6-10.  
-[http://muse.jhu.edu/journals/journal\_of\_democracy/v009/9.1chen.html](http://muse.jhu.edu/journals/journal_of_democracy/v009/9.1chen.html)
+{{% resource_link "c0c0bf5c-91bd-40b0-ad01-b8620666d3c7" "http://muse.jhu.edu/journals/journal\_of\_democracy/v009/9.1chen.html" %}}
